@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  Currently shipping: <a href="https://github.com/anup4khandelwal/autopilot-multi-agent-loop"><b>autopilot-multi-agent-loop</b></a> (ReviewOps Copilot for PR review loops)
+</p>
+
+<p align="center">
   <a href="https://github.com/anup4khandelwal?tab=followers">
     <img src="https://img.shields.io/github/followers/anup4khandelwal?label=Followers&style=for-the-badge" />
   </a>
@@ -30,6 +34,8 @@
 
 ## Featured Repositories
 
+- **[autopilot-multi-agent-loop](https://github.com/anup4khandelwal/autopilot-multi-agent-loop)**  
+  Multi-agent ReviewOps Copilot with path policies, reviewer enforcement, and trend dashboard.
 - **[awesome-codex-skills](https://github.com/anup4khandelwal/awesome-codex-skills)**  
   100 production-ready Codex Skills for AI engineering workflows.
 - **[travel-planner-agent](https://github.com/anup4khandelwal/travel-planner-agent)**  
@@ -45,6 +51,7 @@
 
 ## Current Focus
 
+- ReviewOps and PR quality automation
 - AI coding agents and reusable skill systems
 - LangGraph and multi-agent orchestration
 - RAG pipelines with practical evaluation
@@ -74,6 +81,9 @@
 - Contributions: https://github.com/anup4khandelwal?tab=overview&from=2026-01-01&to=2026-12-31
 
 <p>
+  <a href="https://github.com/anup4khandelwal/autopilot-multi-agent-loop">
+    <img src="https://img.shields.io/github/stars/anup4khandelwal/autopilot-multi-agent-loop?style=flat-square" />
+  </a>
   <a href="https://github.com/anup4khandelwal/awesome-codex-skills">
     <img src="https://img.shields.io/github/stars/anup4khandelwal/awesome-codex-skills?style=flat-square" />
   </a>
