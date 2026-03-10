@@ -71,9 +71,20 @@
 
 ## GitHub Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anup4khandelwal&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anup4khandelwal&layout=compact&theme=default&hide_border=true" />
+- Profile activity: https://github.com/anup4khandelwal
+- Repositories: https://github.com/anup4khandelwal?tab=repositories
+- Contributions: https://github.com/anup4khandelwal?tab=overview&from=2026-01-01&to=2026-12-31
+
+<p>
+  <a href="https://github.com/anup4khandelwal/awesome-codex-skills">
+    <img src="https://img.shields.io/github/stars/anup4khandelwal/awesome-codex-skills?style=flat-square" />
+  </a>
+  <a href="https://github.com/anup4khandelwal/algo-trading">
+    <img src="https://img.shields.io/github/stars/anup4khandelwal/algo-trading?style=flat-square" />
+  </a>
+  <a href="https://github.com/anup4khandelwal/context-pack">
+    <img src="https://img.shields.io/github/stars/anup4khandelwal/context-pack?style=flat-square" />
+  </a>
 </p>
 
 ---
