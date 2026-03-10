@@ -17,6 +17,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anupkhandelwal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anup%20Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Anup_Khandelwal">
+    <img src="https://img.shields.io/badge/X-@Anup__Khandelwal-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## Featured Repositories
@@ -72,3 +81,8 @@
 ## Collaboration
 
 If you're building agentic engineering tools or open-source automation, feel free to open an issue or connect on GitHub.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/anupkhandelwal/
+- X: https://x.com/Anup_Khandelwal
