@@ -40,8 +40,6 @@
   Context packaging utilities for developer and agent workflows.
 - **[hn-action](https://github.com/anup4khandelwal/hn-action)**  
   GitHub Actions automation project.
-- **[task-manager-api](https://github.com/anup4khandelwal/task-manager-api)**  
-  Backend API project focused on clean service design.
 
 ---
 
