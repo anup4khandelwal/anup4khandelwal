@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Anup Khandelwal</h1>
 <p align="center">
-  AI Engineer building agentic developer tools, RAG systems, and production automation
+  AI Engineer building agentic developer tools, automation systems, and production-ready workflows
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/github/followers/anup4khandelwal?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://github.com/anup4khandelwal?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Open%20Source-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repos-Open%20Source-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/anup4khandelwal/awesome-codex-skills">
     <img src="https://img.shields.io/badge/Featured-awesome--codex--skills-blue?style=for-the-badge" />
@@ -19,22 +19,30 @@
 
 ---
 
-## What I'm Building
+## Featured Repositories
 
 - **[awesome-codex-skills](https://github.com/anup4khandelwal/awesome-codex-skills)**  
   100 production-ready Codex Skills for AI engineering workflows.
 - **[travel-planner-agent](https://github.com/anup4khandelwal/travel-planner-agent)**  
-  Multi-agent travel planning system with TypeScript + LangChain + Ollama.
+  Multi-agent travel planner with TypeScript and LLM tooling.
+- **[algo-trading](https://github.com/anup4khandelwal/algo-trading)**  
+  Automated trading workflows, backtesting, and data pipelines.
+- **[context-pack](https://github.com/anup4khandelwal/context-pack)**  
+  Context packaging utilities for developer and agent workflows.
+- **[hn-action](https://github.com/anup4khandelwal/hn-action)**  
+  GitHub Actions automation project.
+- **[task-manager-api](https://github.com/anup4khandelwal/task-manager-api)**  
+  Backend API project focused on clean service design.
 
 ---
 
-## Focus Areas
+## Current Focus
 
-- AI coding agents
-- LangGraph / multi-agent systems
-- RAG + evaluation pipelines
-- DevOps automation with GitHub Actions
-- Secure and scalable developer workflows
+- AI coding agents and reusable skill systems
+- LangGraph and multi-agent orchestration
+- RAG pipelines with practical evaluation
+- DevOps and GitHub Actions automation
+- Reliable backend and data workflows
 
 ---
 
@@ -63,4 +71,4 @@
 
 ## Collaboration
 
-If you're building agentic engineering tools, open an issue or connect with me on GitHub.
+If you're building agentic engineering tools or open-source automation, feel free to open an issue or connect on GitHub.
