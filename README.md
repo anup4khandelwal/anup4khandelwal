@@ -2,22 +2,19 @@
 
 <h1 align="center">Anup Khandelwal</h1>
 <p align="center">
-  AI systems architect and engineer in Pune building AI harnesses, inference control planes, and developer workflow automation.
+  Open-source AI systems engineer in Pune building AI harnesses, inference control planes, and developer workflow tooling.
 </p>
 
 <p align="center">
-  I work best at the intersection of <b>0→1 product building</b>, <b>production-grade systems</b>, and <b>open-source engineering</b>.
+  I work best where <b>system design</b>, <b>hands-on implementation</b>, and <b>maintainable open source</b> meet.
 </p>
 
 <p align="center">
-  Currently building
-  <a href="https://github.com/anup4khandelwal/HarnessLab"><b>HarnessLab</b></a>
-  and
-  <a href="https://github.com/anup4khandelwal/codex-stack"><b>codex-stack</b></a>.
-</p>
-
-<p align="center">
-  Open to: founding-engineer conversations, AI infra roles, and serious open-source collaboration.
+  Maintaining
+  <a href="https://github.com/anup4khandelwal/HarnessLab"><b>HarnessLab</b></a>,
+  building
+  <a href="https://github.com/anup4khandelwal/codex-stack"><b>codex-stack</b></a>,
+  and open to strong engineering teams, early-stage products, and meaningful OSS collaboration.
 </p>
 
 <p align="center">
@@ -44,68 +41,63 @@
 
 ---
 
+## Open Source First
+
+- I build and maintain developer-facing AI systems in the open
+- I care about contributor-friendly repositories: clear architecture, useful docs, strong tests, and practical APIs
+- I am especially interested in AI infrastructure, harness runtimes, inference systems, and workflow tooling
+
+---
+
+## Proof Of Execution
+
+- I ship full systems, not isolated demos: runtime code, APIs, CLIs, tests, docs, and repository structure
+- My work tends to be infrastructure-shaped: harness layers, tracing, policy systems, evaluation flows, scheduling, and automation
+- I am comfortable moving from architecture to implementation to polish without handing off the hard parts
+
+---
+
+## Current Repositories
+
+- **[HarnessLab](https://github.com/anup4khandelwal/HarnessLab)**  
+  Open-source platform for learning and simulating how real AI systems work internally, including agent harnesses, inference, memory, cost, and control layers.
+- **[codex-stack](https://github.com/anup4khandelwal/codex-stack)**  
+  Codex-native stack for review, browser QA, preview verification, and shipping automation.
+- **[awesome-codex-skills](https://github.com/anup4khandelwal/awesome-codex-skills)**  
+  Reusable Codex Skills for AI engineering workflows.
+- **[context-pack](https://github.com/anup4khandelwal/context-pack)**  
+  Task-specific repo context bundler for AI coding agents.
+
+---
+
+## Why Teams Reach Out
+
+### Hiring Managers
+
+- Strong fit for AI systems, developer infrastructure, and applied platform engineering roles
+- Comfortable owning architecture, implementation, and technical quality end-to-end
+- Strong TypeScript, Bun, Python, and repo-automation depth
+
+### Founders
+
+- Best fit for early teams building AI infrastructure, developer tools, or workflow products
+- I like 0→1 work where product shape and system design evolve together
+- I optimize for leverage and shipping speed without lowering the engineering bar
+
+### Open-Source Maintainers
+
+- Open to collaborating on technically serious infrastructure projects
+- Interested in maintainable abstractions, readable documentation, and contributor-friendly repo design
+- Especially aligned with projects around AI systems, automation, developer tools, and code quality
+
+---
+
 ## What I Build
 
 - AI harness engineering systems: guardrails, tracing, memory, evals, policy layers, and approval workflows
 - Inference control-plane simulations: prefill vs decode, KV cache, batching, latency, throughput, and cost modeling
 - Agentic workflows for code review, browser QA, preview verification, and shipping readiness
 - Repo-native developer tooling, reusable Codex skills, and ReviewOps automation
-
----
-
-## Why Reach Out
-
-### Hiring Teams
-
-- I build practical AI systems, not demo wrappers
-- Strong TypeScript, Bun, Python, and developer-infrastructure depth
-- Comfortable owning architecture, implementation, and repo quality end-to-end
-
-### Founders
-
-- Best fit for early teams building AI infrastructure, developer tools, or workflow products
-- I like ambiguous 0→1 problems where product shape and system design evolve together
-- I optimize for leverage, clarity, and shipping speed without sacrificing engineering quality
-
-### Open-Source Maintainers
-
-- Interested in contributor-friendly infra projects, especially around AI systems and developer tooling
-- I care about clean architecture, readable docs, strong tests, and reusable abstractions
-- Open to collaboration on meaningful OSS with real technical depth
-
----
-
-## Building Now
-
-- **[HarnessLab](https://github.com/anup4khandelwal/HarnessLab)**  
-  Open-source platform for learning and simulating how real AI systems work internally, including agent harnesses, inference, memory, cost, and control layers.
-- **[codex-stack](https://github.com/anup4khandelwal/codex-stack)**  
-  Codex-native stack for review, browser QA, preview verification, and shipping automation.
-
----
-
-## Featured Repositories
-
-- **[HarnessLab](https://github.com/anup4khandelwal/HarnessLab)**  
-  Learning and production-simulation platform for AI Harness Engineering and LLM inference systems.
-- **[codex-stack](https://github.com/anup4khandelwal/codex-stack)**  
-  Codex-native workflow stack for review, browser QA, preview verification, and shipping automation.
-- **[awesome-codex-skills](https://github.com/anup4khandelwal/awesome-codex-skills)**  
-  Open-source collection of reusable Codex Skills for AI engineering workflows.
-- **[context-pack](https://github.com/anup4khandelwal/context-pack)**  
-  Task-specific repo context bundler for Claude Code and OpenAI Codex.
-- **[autopilot-multi-agent-loop](https://github.com/anup4khandelwal/autopilot-multi-agent-loop)**  
-  Multi-agent ReviewOps system for PR review loops, policy gates, and merge-readiness automation.
-- **[hn-action](https://github.com/anup4khandelwal/hn-action)**  
-  GitHub Actions automation experiments and workflow tooling for developer operations.
-
----
-
-## Current Focus
-
-- Make AI harness engineering and LLM serving systems easier to learn through realistic, inspectable simulations
-- Turn engineering playbooks into reusable AI workflows that run inside real repositories
-- Build practical automation around pull requests, release gates, and shipping readiness
 
 ---
 
@@ -128,7 +120,7 @@
 
 ## Connect
 
-If you are hiring for AI systems or founding-engineer roles, building an AI infra product, or want to collaborate on open-source developer tooling, reach out.
+If you are hiring for AI systems work, building an early-stage AI tooling company, or want to collaborate on open-source infrastructure, reach out.
 
 - LinkedIn: https://www.linkedin.com/in/anupkhandelwal/
 - X: https://x.com/Anup_Khandelwal
