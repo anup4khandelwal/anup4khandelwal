@@ -6,10 +6,18 @@
 </p>
 
 <p align="center">
+  I work best at the intersection of <b>0→1 product building</b>, <b>production-grade systems</b>, and <b>open-source engineering</b>.
+</p>
+
+<p align="center">
   Currently building
   <a href="https://github.com/anup4khandelwal/HarnessLab"><b>HarnessLab</b></a>
   and
   <a href="https://github.com/anup4khandelwal/codex-stack"><b>codex-stack</b></a>.
+</p>
+
+<p align="center">
+  Open to: founding-engineer conversations, AI infra roles, and serious open-source collaboration.
 </p>
 
 <p align="center">
@@ -42,6 +50,28 @@
 - Inference control-plane simulations: prefill vs decode, KV cache, batching, latency, throughput, and cost modeling
 - Agentic workflows for code review, browser QA, preview verification, and shipping readiness
 - Repo-native developer tooling, reusable Codex skills, and ReviewOps automation
+
+---
+
+## Why Reach Out
+
+### Hiring Teams
+
+- I build practical AI systems, not demo wrappers
+- Strong TypeScript, Bun, Python, and developer-infrastructure depth
+- Comfortable owning architecture, implementation, and repo quality end-to-end
+
+### Founders
+
+- Best fit for early teams building AI infrastructure, developer tools, or workflow products
+- I like ambiguous 0→1 problems where product shape and system design evolve together
+- I optimize for leverage, clarity, and shipping speed without sacrificing engineering quality
+
+### Open-Source Maintainers
+
+- Interested in contributor-friendly infra projects, especially around AI systems and developer tooling
+- I care about clean architecture, readable docs, strong tests, and reusable abstractions
+- Open to collaboration on meaningful OSS with real technical depth
 
 ---
 
@@ -98,7 +128,7 @@
 
 ## Connect
 
-If you are building AI developer tools, harness runtimes, inference systems, or open-source workflow infrastructure, I am open to collaborating.
+If you are hiring for AI systems or founding-engineer roles, building an AI infra product, or want to collaborate on open-source developer tooling, reach out.
 
 - LinkedIn: https://www.linkedin.com/in/anupkhandelwal/
 - X: https://x.com/Anup_Khandelwal
